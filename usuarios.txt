@@ -1,0 +1,1 @@
+a:1:{i:111;a:3:{s:6:"nombre";s:6:"Sergio";s:10:"contrasena";s:88:"+1WycC4ShnI2Lc9vsjqLXsulfzUv4oAeGJ6O2S0PwhtRtppEQFMw/HMbfzzb4EAsi/egSzPWCNfB5lPHzumL8Q==";s:5:"color";s:7:"#ff0080";}}
